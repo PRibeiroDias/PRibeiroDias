@@ -6,6 +6,8 @@
 
 <a href="https://xd.adobe.com/view/96297d28-1735-4383-9427-4d6be3198843-c37a/?fullscreen" class="image fit">Festival Mobile App</a>
 
+<a href="https://github.com/PRibeiroDias/color-palette" class="image fit">Color Pallet - React App</a>
+
 <!--
 **PRibeiroDias/PRibeiroDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
